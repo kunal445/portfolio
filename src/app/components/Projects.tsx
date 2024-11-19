@@ -287,6 +287,9 @@ export default function Projects() {
                 <span className="bg-gray-200 text-gray-800 text-sm font-medium px-3 py-1 rounded-full">
                   JavaScript
                 </span>
+                <span className="bg-gray-200 text-gray-800 text-sm font-medium px-3 py-1 rounded-full">
+                  REST API
+                </span>
               </div>
               <div className=" flex">
                 <Link
@@ -341,6 +344,9 @@ export default function Projects() {
                 </span>
                 <span className="bg-gray-200 text-gray-800 text-sm font-medium px-3 py-1 rounded-full">
                   JavaScript
+                </span>
+                <span className="bg-gray-200 text-gray-800 text-sm font-medium px-3 py-1 rounded-full">
+                  REST API
                 </span>
               </div>
               <div className=" flex">
